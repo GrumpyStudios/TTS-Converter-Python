@@ -1,20 +1,33 @@
 TTS-Converter-Python
 A Text-to-Speech Converter in Python with Voice Selection
 
+
+
+
 Description
 This Python script allows you to convert text into speech using the gTTS (Google Text-to-Speech) library, with the option to select different voices.
 
+
+
+
 Getting Started
+
 Prerequisites
+
 Ensure you have Python installed on your system.
+
 
 Installation
 Clone this repository or download the script.
 
 shell
+
 Copy code
+
 git clone https://github.com/GrumpyStudios/TTS-Converter-Python.git
+
 Dependencies
+
 Install the required Python packages. You can use pip to do this.
 
 shell
@@ -24,6 +37,7 @@ Usage
 Running the Script:
 
 Execute the script by running python tts_converter.py in your terminal.
+
 The graphical user interface (GUI) will appear.
 Enter Text:
 
