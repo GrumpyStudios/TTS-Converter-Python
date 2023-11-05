@@ -7,7 +7,7 @@ A Text-to-Speech Converter in Python with Voice Selection
 Description
 This Python script allows you to convert text into speech using the gTTS (Google Text-to-Speech) library, with the option to select different voices.
 
-
+** 💻This Was Only Tested On win10💻**
 
 
 # Text-to-Speech Converter in Python
