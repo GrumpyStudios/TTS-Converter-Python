@@ -38,7 +38,10 @@ Make sure you have Python installed on your system. If not, you can [install it]
 2. Install the required Python packages using pip.
 
    ```shell
-   pip3 install gTTS
+   import tkinter as tk
+from tkinter import ttk
+import pyttsx3
+from tkinter import messagebox
 Usage
 
 Run the script using the following command in your terminal:
